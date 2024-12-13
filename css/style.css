@@ -2,7 +2,7 @@ body {
   position: relative;
   padding: 40px;
   background-color: #2C3E50;
-  background-image: url("/img/mobile.svg");
+  background-image: url("/img/desk.webp");
   background-color: #2C3E50;
   background-blend-mode: overlay;
   background-attachment: fixed;
@@ -14,7 +14,7 @@ body {
 
 @media screen and (min-width: 640px) {
   body {
-    background-image: url(/img/Desktop.svg);
+    background-image: url(/img/desk.webp);
     padding: 60px 80px 40px 80px;
   }
 }
